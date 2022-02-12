@@ -1,5 +1,12 @@
-# Project Name
+## Project Name
 eyeMovement
+
+## Table of Contents
+- [Description & General Info](https://github.com/briennekordis/eyeMovement#description--general-info)
+- [Languages & Technologies](https://github.com/briennekordis/eyeMovement#languages--technologies)
+- [Setup & Use](https://github.com/briennekordis/eyeMovement#setup--use)
+- [Suggestions for Improvement](https://github.com/briennekordis/eyeMovement#suggestions-for-improvement)
+- [Licensing Information](https://github.com/briennekordis/eyeMovement#licensing-information)
 
 ## Description & General Info 
 This project creates shapes that resemble a pair of eyes that move with the movement of the mouse on the DOM.
